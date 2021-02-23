@@ -6,14 +6,14 @@
 # :100: About
 
 <p align="justify">
-  The <strong>NPS API</strong> is a tool that calculates the <strong>Net Promoter Score</strong>, which is the percentage of customers rating their likelihood to recommend a company, a product, or a service to a friend or colleague on a scale from 0 to 10.
+  The <strong>NPS API</strong> is a tool to calculate the <strong>Net Promoter Score</strong>, which is the percentage of customers rating their likelihood to recommend a company, a product, or a service to a friend or colleague on a scale from 0 to 10.
 </p>
 
 <p>
   🚧 <strong>Under development</strong> during the fourth edition of Next Level Week, an educational event organized by <a href="https://rocketseat.com.br/">Rocketseat</a>.
 </p>
 
-## :bookmark_tabs: Covered Tools & Topics
+## :bookmark_tabs: Tools & Topics Covered
 
 - RESTful API
 - Node.js
@@ -28,7 +28,6 @@
 ### 📝 Notes
 
 - Day 2 (step-by-step):
-
  - Configure TypeORM
  - Create user migration
  		- `yarn typeorm migration:create -n CreateUsers`
