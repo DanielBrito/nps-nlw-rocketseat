@@ -28,11 +28,11 @@
 ### 📝 Notes
 
 - Day 2 (step-by-step):
- - Configure TypeORM
- - Create user migration
+	- Configure TypeORM
+ 	- Create user migration
  		- `yarn typeorm migration:create -n CreateUsers`
  		- `yarn typeorm migration:run`
  		- `yarn typeorm migration:revert` (undo last migration)
- - Create user model
- - Create user controller
- - Create user route
+ 	- Create user model
+ 	- Create user controller
+ 	- Create user route
