@@ -6,7 +6,7 @@
 # :100: About
 
 <p align="justify">
-  The **NPS API** is a tool that calculates the <strong>Net Promoter Score</strong>, which is the percentage of customers rating their likelihood to recommend a company, a product, or a service to a friend or colleague on a scale from 0 to 10.
+  The <strong>NPS API</strong> is a tool that calculates the <strong>Net Promoter Score</strong>, which is the percentage of customers rating their likelihood to recommend a company, a product, or a service to a friend or colleague on a scale from 0 to 10.
 </p>
 
 <p>
